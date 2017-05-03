@@ -1,3 +1,6 @@
+#include "iostream"
+#include "time.h"
+
 class player
 {
 static int hon;
